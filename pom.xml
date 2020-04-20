@@ -18,13 +18,13 @@
         <snapshotRepository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/murdos/test</url>
+            <url>https://maven.pkg.github.com/murdos/gh-package-issue</url>
             <uniqueVersion>true</uniqueVersion>
         </snapshotRepository>
         <repository>
-            <id>github-releases</id>
+            <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/murdos/test</url>
+            <url>https://maven.pkg.github.com/murdos/gh-package-issue</url>
         </repository>
     </distributionManagement>
 
